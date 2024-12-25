@@ -1,5 +1,5 @@
 name: "AppFlowy"
-version: "1.0.0"
+version: "1.0"
 slug: "appflowy"
 description: "Self-hosted AppFlowy instance"
 url: "https://github.com/yourusername/ha-addons/tree/main/appflowy"
