@@ -1,4 +1,4 @@
-name: "Publish Home assistant Samsung Frame Art"
+name: "Publish Appflowy"
 
 on:
   workflow_dispatch:
