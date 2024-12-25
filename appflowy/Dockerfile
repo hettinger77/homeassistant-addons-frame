@@ -1,4 +1,4 @@
-ROM appflowyio/appflowy_client:main
+FROM appflowyio/appflowy_client:main
 
 # Install required dependencies
 RUN apt-get update && apt-get install -y \
