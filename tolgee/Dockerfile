@@ -1,5 +1,5 @@
-# Dockerfile
-FROM docker:latest
+ARG BUILD_FROM
+FROM $BUILD_FROM
 
 # Install bash and other dependencies
 RUN apk add --no-cache bash
