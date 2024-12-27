@@ -1,6 +1,6 @@
 # First, config.yaml
 name: "Tolgee"
-version: "1.0.0"
+version: "1.0"
 slug: "tolgee"
 description: "Self-hosted Tolgee localization platform"
 url: "https://github.com/gijsvdhoven/homeassistant-addons/tree/main/tolgee"
