@@ -23,4 +23,4 @@ jobs:
           args: |
             --all \
             --target /data/homeassistant-samsung-frame-art2 \
-            --docker-hub thettinger
+            --docker-hub gijsvdhoven
