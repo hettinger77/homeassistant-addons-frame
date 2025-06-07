@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
-name: Home assistant Addon Repo, home of the Samsung the Frame art changer addon
+name: Hettinger Home assistant Addon Repo
 url: "https://github.com/hettinger77/homeassistant-addons-frame"
 maintainer: T Hettinger
