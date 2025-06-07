@@ -1,4 +1,4 @@
-name: "Publish Home assistant Samsung Frame Art"
+name: "Publish Home assistant Samsung Frame Art Two"
 
 on:
   workflow_dispatch:
@@ -22,5 +22,5 @@ jobs:
         with:
           args: |
             --all \
-            --target /data/homeassistant-samsung-frame-art \
-            --docker-hub gijsvdhoven
+            --target /data/homeassistant-samsung-frame-art2 \
+            --docker-hub thettinger
