@@ -30,7 +30,7 @@ def parseargs():
 
 
 # Set the path to the folder containing the images
-folder_path = '/media/frame'
+folder_path = '/media/frame2'
 
 uploaded_json_path = '/data/uploaded.json'
 
